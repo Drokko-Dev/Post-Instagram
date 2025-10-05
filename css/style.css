@@ -30,7 +30,7 @@ h1 {
 
 .post {
   display: flex;
-  flex-direction: column; /* hijos uno debajo del otro */
+  flex-direction: column;
   background-color: white;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
